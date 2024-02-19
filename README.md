@@ -13,7 +13,7 @@ My websites?
 - Youtube Channel: https://www.youtube.com/channel/UCy1woftIiZSUG-aMC8J3j8g
 
 My Resume?
-https://drive.google.com/file/d/153y4KcdniDatc9Rc3z6cTl4DjKE8IfCl/view
+- https://drive.google.com/file/d/153y4KcdniDatc9Rc3z6cTl4DjKE8IfCl/view
 
 Accomplishments?
 - I have participated in some bootcamps to enhance my practical part along with my masters, you see some great projects in my github & my cv
