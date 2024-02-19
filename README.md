@@ -4,6 +4,16 @@
 Who is Ammar?
 
 - 📫 I'm a chemical engineer
-- 🌱 I’m currently studying master of data science
-- 👯 I’m hate faliure which makes exert all my efort to avoid it
+- 🌱 I’m currently studying master of data science 
+- 👯 I’m hate faliure which makes me exert all my efort to avoid it
 
+My websites?
+
+- Linkedin: https://www.linkedin.com/in/ammar-alhawashem-2020/
+- Youtube Channel: https://www.youtube.com/channel/UCy1woftIiZSUG-aMC8J3j8g
+
+My Resume?
+https://drive.google.com/file/d/153y4KcdniDatc9Rc3z6cTl4DjKE8IfCl/view
+
+Accomplishments?
+- I have participated in some bootcamps to enhance my practical part along with my masters, you see some great projects in my github & my cv
