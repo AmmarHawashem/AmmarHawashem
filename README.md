@@ -3,7 +3,8 @@
 
 Who is Ammar?
 
-- 📫 I'm a chemical engineer
+- 📫 I'm a chemical engineer  (Bachelor's degree)
+- 📫 I'm a data scientist  (Bachelor's degree)
 - 🌱 I’m currently studying master of data science 
 - 👯 I’m hate faliure which makes me exert all my efort to avoid it
 
